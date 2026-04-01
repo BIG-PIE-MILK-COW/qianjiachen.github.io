@@ -9,14 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Qian Jiachen / 钱嘉琛"
+title                    : "Jiachen Qian / 钱嘉琛"
 title_separator          : "-"
-name                     : &name "Qian Jiachen"
-description              : &description "Qian Jiachen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://BIG-PIE-MILK-COW.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Jiachen Qian"
+description              : &description "Jiachen Qian's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://BIG-PIE-MILK-COW.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "BIG-PIE-MILK-COW/qianjiachen.github.io"
+repository               : "BIG-PIE-MILK-COW/BIG-PIE-MILK-COW.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,24 +23,24 @@ repository               : "BIG-PIE-MILK-COW/qianjiachen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Qian Jiachen"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Computer Vision"
-  location         : "China"
-  employer         : ""
+  name             : "Jiachen Qian"
+  pronouns         : "he/him"  
+  bio              : "PhD Student at HKU | Researcher at DreamTech"
+  location         : "Hong Kong"
+  employer         : "The University of Hong Kong"
   uri              : # URL
-  email            : "qianjiachen@example.com" 
+  email            : "qianjiachen@dreamtech.ai" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : ""
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
