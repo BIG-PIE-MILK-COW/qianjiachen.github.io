@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [The University of Hong Kong](https://www.hku.hk/), advised by [Prof. Hengshuang Zhao](https://hszhao.github.io/). I am also a Researcher at [DreamTech](https://dreamtech.ai/). I received my Bachelor's degree from [Fudan University](https://www.fudan.edu.cn/) in 2024.
+I am a PhD student at [The University of Hong Kong](https://www.hku.hk/), advised by [Prof. Hengshuang Zhao](https://i.cs.hku.hk/~hszhao/). I am also a Researcher at [DreamTech](https://dreamtech.ai/). I received my Bachelor's degree from [Fudan University](https://www.fudan.edu.cn/) in 2024.
 
 My research interests lie in **computer vision**, with a focus on 3D generation and understanding.
 
